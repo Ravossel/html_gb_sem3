@@ -4,9 +4,8 @@
 }
 
 .body {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+    width: 1200px;
+    margin: auto;
 }
 
 .top_container {
